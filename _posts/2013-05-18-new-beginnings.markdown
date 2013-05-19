@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "New Beginnings"
-date:   2013-05-13 17:56:54
-categories: jekyll update
+date:   2013-05-19
+category: web
 ---
 
 <p class="standfirst">The release of my blog is long overdue but I'm happy to say that it's now here!</p> 
